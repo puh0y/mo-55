@@ -17,5 +17,5 @@ void loop() {             // loop() repeats forever
   delay(300);                   // held a bit longer
 
   digitalWrite(LED_PIN, LOW);   // off for the long rest
-  delay(700);                  // 1.5 second pause, then loop() starts over
+  delay(700);                  // 0.7 second pause, then loop() starts over
 }

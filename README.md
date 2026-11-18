@@ -48,3 +48,5 @@ MO-55 listens, watches, and feels movement through its sensors, then reacts with
 
 \- Nov 2026: Parts collected and sorted, GitHub repo created
 \- Heartbeat sketch written and uploaded, on Github as heartbeat/heartbeat.ino
+
+\- Photoresistor light sensor wired and tested, turns on the Uno's built-in LED when it gets dark, on Github as photoresistor/photoresistor.ino

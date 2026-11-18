@@ -47,4 +47,4 @@ MO-55 listens, watches, and feels movement through its sensors, then reacts with
 \## Progress log
 
 \- Nov 2026: Parts collected and sorted, GitHub repo created
-
+\- Hearteat sketch written and uploaded, on Github as heartbeat/heartbeat.ino

@@ -52,3 +52,5 @@ MO-55 listens, watches, and feels movement through its sensors, then reacts with
 \- Photoresistor light sensor wired and tested, turns on the Uno's built-in LED when it gets dark, on Github as photoresistor/photoresistor.ino
 
 \- Sound sensor (one of two) wired and tested, on github as sound/sound.ino
+
+\- Sound sensor (two of two) wired and tested, paired ears on github as bothears/bothears.ino

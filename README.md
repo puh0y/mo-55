@@ -62,3 +62,5 @@ MO-55 listens, watches, and feels movement through its sensors, then reacts with
 \- PIR motion sensor wired and tested, on github as motion/motion.ino
 
 \- First voice interaction with PIR Sensor added, on github as firstvoicePIR/firstvoicePIR.ino
+
+\- Voice interaction at variable distance with PIR sensor and ultrasonic sensor, on github as greeting/greeting.ino

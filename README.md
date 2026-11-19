@@ -55,6 +55,10 @@ MO-55 listens, watches, and feels movement through its sensors, then reacts with
 
 \- Sound sensor (two of two) wired and tested, paired ears on github as bothears/bothears.ino
 
+\- Rings and body box came in mail
+
 \- Ultrasonic sensor wired and tested, on github as distance/distance.ino
 
 \- PIR motion sensor wired and tested, on github as motion/motion.ino
+
+\- First voice interaction with PIR Sensor added, on github as firstvoicePIR/firstvoicePIR.ino

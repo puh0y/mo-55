@@ -64,3 +64,5 @@ MO-55 listens, watches, and feels movement through its sensors, then reacts with
 \- First voice interaction with PIR Sensor added, on github as firstvoicePIR/firstvoicePIR.ino
 
 \- Voice interaction at variable distance with PIR sensor and ultrasonic sensor, on github as greeting/greeting.ino
+
+\- Servo turns head and lights a different LED with direction change, on github as headturn2led/headturn2led.ino
